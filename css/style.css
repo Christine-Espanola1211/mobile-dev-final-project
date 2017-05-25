@@ -1,0 +1,162 @@
+html,body {
+      
+        margin:2px;
+        background-color: #f0e68c;
+
+          }
+
+ p, ol, li,ul {font-family: verdana; 
+ 	text-align: justify;
+  	font-size: 15px ;
+ }
+ #frame1{
+	position:absolute;
+	top:22%;
+	left:1%;
+	right: 1%;
+	width:97%;
+	height:75%;
+	border: 1px solid black;
+	cursor:none;
+}
+
+#vision{
+	position:relative;
+	top: 5px;
+	left:10px;
+	float: left;
+	
+	
+	}
+
+#mission{
+	position: relative;
+	top: 5px;
+	left:15px;
+	float: left;
+	
+	
+	}
+
+#core_val{
+
+	position: relative;
+	top: 5px;
+	left:25px;
+	float: left;
+	
+}
+
+#frame2{
+	position:absolute;
+	top:32%;
+	left:1%;
+	right: 1%;
+	width:96%;
+	height:60%;
+	overflow: scroll;
+}
+
+
+#exam{
+	position: relative;
+	top: 15px;
+	float: left;
+	left:110px;
+	
+	}
+
+#frame3{
+	position:absolute;
+	top:40%;
+	left:1%;
+	right: 1%;
+	width:96%;
+	height:30%;
+	cursor:none;}
+
+#admission{
+	position:relative;
+	top: 55px;
+	float: left;
+	left:20px;
+	
+	}
+
+#program{
+
+	position: relative;
+	top: 55px;
+	float: left;
+	left:60px;
+}
+
+
+#frame4{
+	position:absolute;
+	top:60%;
+	left:1%;
+	right: 1%;
+	width:96%;
+	height:30%;
+	cursor:none;}
+
+#grant{
+	position:relative;
+	top: 20px;
+	float: left;
+	left:20px;
+	
+	}
+
+#payment{
+
+	position: relative;
+	top: 20px;
+	float: left;
+	left:60px;
+}
+
+
+
+#frame5{
+	position:absolute;
+	top:70%;
+	left:1%;
+	right: 1%;
+	width:96%;
+	height:30%;
+	cursor:none;}
+
+
+#contact {
+	position: relative;
+	top: 80px;
+	float: left;
+	left:1px;
+}
+
+
+
+
+
+
+
+
+#footer{
+	position: relative;
+	top: 90px;
+	float: left;
+	left:1px;
+}
+
+#link2link{
+	position:absolute;
+	top:32%;
+	left:1%;
+	right: 1%;
+	width:93%;
+	height:45%;
+	overflow: scroll;
+}
+
